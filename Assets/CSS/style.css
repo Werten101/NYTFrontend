@@ -1,0 +1,27 @@
+#Search-Heading {
+	background-color: #2C3E50;
+	color: white;
+	margin-top: 0px;
+}
+
+#Main-Container {
+	width: 800px;
+	height: 380px;
+	border: solid;
+	border-color: #2c3e50;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+
+#Search-Area {
+	margin-left: 15px;
+}
+
+#Button-Area {
+	margin-left: 15px;
+}
+
+.Input {
+	width: 97%;
+}
